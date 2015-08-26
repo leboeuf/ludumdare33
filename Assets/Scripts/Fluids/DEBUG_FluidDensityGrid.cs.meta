@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88d7b4b2ea510734b8ee48eb06ce54a3
+timeCreated: 1440349572
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - FluidDensityShader: {fileID: 4800000, guid: 05027b3199b627a43819fd3a7721be87,
+      type: 3}
+  - FluidDensity: {fileID: 8400000, guid: f7fcb8c1c529af243a206ae660c5961c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

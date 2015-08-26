@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a70087396c20b224a8ec7cf79808af8c
+timeCreated: 1440359595
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - DensityTexture: {fileID: 8400000, guid: f7fcb8c1c529af243a206ae660c5961c, type: 2}
+  - WriteArrayToTexture: {fileID: 7200000, guid: 82498f8cc44f30a45b75b73d4a329311,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

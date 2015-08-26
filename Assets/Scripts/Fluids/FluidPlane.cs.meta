@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8d9ca1b249b2fe94580e2f85a35b196b
+timeCreated: 1440365559
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fluidShader: {fileID: 4800000, guid: 9a8c8160ba312f44d885118b77b38235, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

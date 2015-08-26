@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0ef09d221aca5064eb74db6c21bf5e58
+timeCreated: 1440337999
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shaderWaveDistortion: {fileID: 4800000, guid: f30b1d1a12c8fd440a78ad3eb0bf6f2c,
+      type: 3}
+  - distortionTexture: {fileID: 2800000, guid: cf4f01c6b894bf14ab765e2317ad009f, type: 3}
+  - Mask: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
